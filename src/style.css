@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  /* Kream */
+  --color-kream-white: #fff;
+  --color-kream-secondary: #eeeeee;
+  --color-primary: #1f1f21;
+  --color-kream-beige: #e1b37f;
+  --color-kream-darkgreen: #5c8d93;
+  --color-kream-green: #58dc76;
+  --color-kream-red: #b02c20;
+}
